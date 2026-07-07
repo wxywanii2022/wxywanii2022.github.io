@@ -23,7 +23,7 @@ repository               : "wxywanii2022/wxywanii2022.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chengxun Ren 任城勋"
   pronouns         : # example: "she/her"  
   bio              : "MSCS @ Stanford University"
@@ -158,6 +158,11 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+# Visitor Map (MapMyVisitors) — leave blank to hide.
+# Registered at https://mapmyvisitors.com — the "d=" hash from your embed code.
+# your dashboard for this map lives at https://mapmyvisitors.com/web/1c6bs
+clustrmaps_id            : "fCgENDKQmVxLwlZRp0AXuPAjt6lEOVieJxJiaomJ3aQ"
 
 
 # Reading Files
