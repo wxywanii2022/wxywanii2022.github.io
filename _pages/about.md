@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengxun Ren | Personal Website"
+title: "Chengxun Ren"
 author_profile: true
 redirect_from: 
   - /about/
