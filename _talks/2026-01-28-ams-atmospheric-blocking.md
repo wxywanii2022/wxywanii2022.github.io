@@ -6,7 +6,7 @@ permalink: /talks/2026-01-28-ams-atmospheric-blocking
 venue: "25th Conference on Atmospheric and Oceanic Fluid Dynamics, 106th American Meteorological Society (AMS) Annual Meeting"
 date: 2026-01-28
 location: "Houston, TX"
-link: "https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Session/73112"
+schedule_link: "https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Session/73112"
 excerpt_separator: ""
 ---
 

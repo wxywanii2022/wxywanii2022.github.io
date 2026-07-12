@@ -11,6 +11,13 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    /* sidebar is position:fixed and full viewport height at this width, so it
+       contributes no height to #main; force #main tall enough that the footer
+       never renders above the still-visible fixed sidebar on short pages */
+    min-height: 100vh;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }

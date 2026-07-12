@@ -6,7 +6,7 @@ permalink: /talks/2026-06-04-glu-voting-paradoxes
 venue: "Geometry Labs United Conference"
 date: 2026-06-04
 location: "Madison, WI"
-link: "https://sites.google.com/view/glu2026/schedule"
+schedule_link: "https://sites.google.com/view/glu2026/schedule"
 excerpt_separator: ""
 ---
 
