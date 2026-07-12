@@ -18,7 +18,7 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 <sub>with <a href="https://openreview.net/profile?id=~Shaojiang_Wang2">Prof. Shaojiang Wang</a> at the <a href="http://iaii.cas.cn/">Institute of Industrial Artificial Intelligence, Chinese Academy of Sciences</a></sub>
 
 * **Tool-Augmented Reasoning for Multimodal Large Language Models** 
-<sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group, Nanjing University</a></sub>
+<sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, Nanjing University</sub>
 
 ## Previous Research
 
