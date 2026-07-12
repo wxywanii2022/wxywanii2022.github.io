@@ -15,16 +15,14 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 ## Current Research
 
 * **Post-training of Large Language Models** 
-
 <sub>with <a href="https://openreview.net/profile?id=~Shaojiang_Wang2">Prof. Shaojiang Wang</a> at the <a href="http://iaii.cas.cn/">Institute of Industrial Artificial Intelligence, Chinese Academy of Sciences</a></sub>
 
 * **Tool-Augmented Reasoning for Multimodal Large Language Models** 
-
 <sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group, Nanjing University</a></sub>
 
 ## Previous Research
 
-* **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Summer Undergraduate Research Fellowship (SURF)</a> at Purdue University</sub>
+* **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Summer Undergraduate Research Fellowship</a> at Purdue University</sub>
 
 * **Diffusion Models for 3D MRI Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
 
