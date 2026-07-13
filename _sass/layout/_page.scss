@@ -57,6 +57,21 @@
 
 .page__content {
 
+  .talk-slides {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin: 1.5em 0;
+
+    img {
+      max-width: 320px;
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--global-border-color);
+      border-radius: $border-radius;
+    }
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);

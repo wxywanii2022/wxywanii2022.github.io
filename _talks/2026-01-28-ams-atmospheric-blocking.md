@@ -12,4 +12,6 @@ excerpt_separator: ""
 
 On the ability of machine learning weather prediction models to forecast atmospheric blocking without direct training on blocking events, using a simplified quasi-geostrophic modeling framework.
 
-![First slide of the talk](/images/talks/2026-01-28-ams-atmospheric-blocking-slide1.jpg)
+<div class="talk-slides">
+  <img src="/images/talks/2026-01-28-ams-atmospheric-blocking-slide1.jpg" alt="First slide of the talk">
+</div>

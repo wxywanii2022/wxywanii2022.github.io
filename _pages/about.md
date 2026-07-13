@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 **Welcome to my homepage!**
+## 👋 Welcome to my homepage!
 
 I am a first-year **MSCS student** at **Stanford University**. Prior to Stanford, I earned my **B.S. in Mathematics & Computer Science** with a **minor in Statistics** from the **University of Illinois Urbana–Champaign** (2023–2026). I graduated with multiple honors, including [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext), [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), the highest academic honor awarded to approximately the top 3% of graduating seniors at UIUC.
 
