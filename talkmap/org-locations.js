@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Voting Paradoxes<br />Geometry Labs United Conference; Madison, WI",
+    "Voting Paradoxes<br />4th Geometry Labs United Conference; Madison, WI",
     43.07469,
     -89.3841663
   ],
