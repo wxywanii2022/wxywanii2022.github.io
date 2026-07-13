@@ -50,4 +50,19 @@
 <!-- Support for MathJax -->
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
+<!-- Open all external links (different domain) in a new tab -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var here = window.location.hostname;
+    document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+      try {
+        if (new URL(link.href).hostname !== here) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      } catch (e) {}
+    });
+  });
+</script>
+
 <!-- end custom footer snippets -->
