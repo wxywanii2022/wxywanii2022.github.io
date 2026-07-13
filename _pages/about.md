@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 Welcome to my homepage!
+<p class="welcome-lead">👋 Welcome to my homepage!</p>
 
 I am a first-year **MSCS student** at **Stanford University**. Prior to Stanford, I earned my **B.S. in Mathematics & Computer Science** with a **minor in Statistics** from the **University of Illinois Urbana–Champaign** (2023–2026). I graduated with multiple honors, including [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext), [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), the highest academic honor awarded to approximately the top 3% of graduating seniors at UIUC.
 
@@ -32,4 +32,6 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 
 I am always happy to discuss research ideas, explore collaboration opportunities, or simply connect with fellow researchers. Feel free to reach out if you'd like to chat!
 
-Outside of research, I grew up in **Nanjing, China**, where I graduated from **Nanjing Foreign Language School**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and occasionally playing **League of Legends** and **Call of Duty**.
+## Beyond Research
+
+I grew up in **Nanjing, China**, where I graduated from **Nanjing Foreign Language School**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.

@@ -57,6 +57,14 @@
 
 .page__content {
 
+  .welcome-lead {
+    margin: 0 0 0.5em;
+    line-height: 1.2;
+    font-family: $header-font-family;
+    font-size: $type-size-4;
+    font-weight: bold;
+  }
+
   .talk-slides {
     display: flex;
     flex-wrap: wrap;
@@ -64,7 +72,7 @@
     margin: 1.5em 0;
 
     img {
-      max-width: 380px;
+      max-width: 500px;
       width: 100%;
       height: auto;
       border: 1px solid var(--global-border-color);
