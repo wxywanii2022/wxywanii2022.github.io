@@ -14,5 +14,4 @@ On the ability of machine learning weather prediction models to forecast atmosph
 
 <div class="talk-slides">
   <img src="/images/talks/2026-01-28-ams-atmospheric-blocking-slide1.jpg" alt="First slide of the talk">
-  <img src="/images/talks/2026-01-28-ams-atmospheric-blocking-slide2.jpg" alt="Second slide of the talk">
 </div>

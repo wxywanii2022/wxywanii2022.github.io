@@ -313,7 +313,7 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # GitHub Pages auto-enables jekyll-titles-from-headings regardless of the plugins
 # list below; disable it so pages without an explicit `title:` don't silently get
 # one derived from their first heading (which then duplicates that heading).
-jekyll-titles-from-headings:
+titles_from_headings:
   enabled: false
 
 # Plugins
