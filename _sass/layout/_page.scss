@@ -68,13 +68,17 @@
   .talk-slides {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
     gap: 1em;
     margin: 1.5em 0;
 
     img {
-      max-width: 600px;
-      width: 100%;
+      display: block;
+      flex: 0 1 auto;
+      width: auto;
       height: auto;
+      max-width: 100%;
+      max-height: 340px;
       border: 1px solid var(--global-border-color);
       border-radius: $border-radius;
     }
