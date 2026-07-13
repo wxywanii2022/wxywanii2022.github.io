@@ -13,5 +13,5 @@ excerpt_separator: ""
 On the occurrence of voting paradoxes in real-world ranked-choice elections, using college football AP Top 25 polls and Major League Baseball MVP voting as case studies.
 
 <div class="talk-slides">
-  <img src="/images/talks/2026-06-04-glu-voting-paradoxes-slide1.jpg" alt="First slide of the talk">
+  <img src="/images/talks/2026-06-04-glu-voting-paradoxes-slide1.png" alt="First slide of the talk">
 </div>
