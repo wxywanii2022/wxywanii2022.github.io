@@ -3,7 +3,7 @@ title: "Voting Paradoxes"
 collection: talks
 type: "Research Talk"
 permalink: /talks/2026-06-04-glu-voting-paradoxes
-venue: "Geometry Labs United Conference"
+venue: "4th Geometry Labs United Conference"
 date: 2026-06-04
 location: "Madison, WI"
 schedule_link: "https://sites.google.com/view/glu2026/schedule"
