@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% if site.publications.size == 0 %}
+  <p>My manuscripts are currently under review and will be posted here once they are publicly available.</p>
+{% endif %}
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
