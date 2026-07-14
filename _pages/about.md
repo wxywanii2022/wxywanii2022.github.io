@@ -24,7 +24,7 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 
 * **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Summer Undergraduate Research Fellowship</a> at Purdue University</sub>
 
-* **Diffusion Models for 3D MRI Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
+* **Diffusion Models for 3D Image Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
 
 * **Combinatorial Voting Theory** <sub>with <a href="https://math.illinois.edu/directory/profile/ajh">Prof. A. J. Hildebrand</a> at the <a href="https://iml.math.illinois.edu/">Illinois Mathematics Lab</a>, University of Illinois Urbana–Champaign</sub>
 
