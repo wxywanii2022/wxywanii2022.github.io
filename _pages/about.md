@@ -20,9 +20,9 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 * **Online Skill Induction from Trajectories** 
 <sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, Nanjing University</sub>
 
-## Previous Research
+* **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Undergraduate Research Fellowship</a> at Purdue University</sub>
 
-* **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Summer Undergraduate Research Fellowship</a> at Purdue University</sub>
+## Previous Research
 
 * **Diffusion Models for 3D Image Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
 
