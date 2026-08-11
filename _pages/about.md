@@ -14,10 +14,10 @@ I am broadly interested in **foundation models, AI reasoning, multimodal learnin
 
 ## Current Research
 
-* **Post-training of Large Language Models** 
+* **Reinforcement Learning for LLM Post-Training** 
 <sub>with <a href="https://openreview.net/profile?id=~Shaojiang_Wang2">Prof. Shaojiang Wang</a> at the <a href="http://iaii.cas.cn/">Institute of Industrial Artificial Intelligence, Chinese Academy of Sciences</a></sub>
 
-* **Online Skill Induction from Trajectories** 
+* **Self-Evolving Agent Skills** 
 <sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, Nanjing University</sub>
 
 * **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Undergraduate Research Fellowship</a> at Purdue University</sub>
