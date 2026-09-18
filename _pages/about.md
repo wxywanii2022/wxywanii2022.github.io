@@ -8,25 +8,25 @@ redirect_from:
 
 <p class="welcome-lead">Welcome to my homepage!</p>
 
-I am a first-year **MSCS student** at **Stanford University**. Prior to Stanford, I earned my **B.S. in Mathematics & Computer Science** with a **minor in Statistics** from the **University of Illinois Urbana–Champaign** (2023–2026). I graduated with multiple honors, including [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext), [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), the highest academic honor awarded to approximately the top 3% of graduating seniors at UIUC.
+I am an **MSCS student** at **Stanford University**. Prior to Stanford, I earned my **B.S. in Mathematics & Computer Science** with a **minor in Statistics** from the **University of Illinois Urbana–Champaign** (2023–2026). I graduated with multiple honors, including [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext), [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), the highest academic honor awarded to approximately the top 3% of graduating seniors at UIUC.
 
 I am broadly interested in **foundation models, AI reasoning, multimodal learning, and scientific machine learning**. My research explores how learning, reasoning, and external knowledge can be integrated to build more capable and reliable AI systems for solving complex real-world problems.
 
 ## Current Research
 
-* **Reinforcement Learning for LLM Post-Training** 
+* **Foundation Language Models** 
 <sub>with <a href="https://openreview.net/profile?id=~Shaojiang_Wang2">Prof. Shaojiang Wang</a> at the <a href="http://iaii.cas.cn/">Institute of AI for Industries, Chinese Academy of Sciences</a></sub>
 
 * **Self-Evolving Agent Skills** 
 <sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, Nanjing University</sub>
 
-* **Physics-Informed Machine Learning for Scientific Modeling** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Undergraduate Research Fellowship</a> at Purdue University</sub>
-
 ## Previous Research
 
-* **Diffusion Models for 3D Image Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
+* **Physics-Informed Machine Learning for Weather Forecasting** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Undergraduate Research Fellowship</a> at Purdue University</sub>
 
-* **Combinatorial Voting Theory** <sub>with <a href="https://math.illinois.edu/directory/profile/ajh">Prof. A. J. Hildebrand</a> at the <a href="https://iml.math.illinois.edu/">Illinois Mathematics Lab</a>, University of Illinois Urbana–Champaign</sub>
+* **Diffusion Models for 3D MRI Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
+
+* **Combinatorial Algorithms** <sub>with <a href="https://math.illinois.edu/directory/profile/ajh">Prof. A. J. Hildebrand</a> at the <a href="https://iml.math.illinois.edu/">Illinois Mathematics Lab</a>, University of Illinois Urbana–Champaign</sub>
 
 * **Spatiotemporal Graph Neural Networks** <sub>Research Intern at the <a href="https://english.jchc.cn/">Intelligent Transportation Research Center, Jiangsu Communications Holding Co., Ltd.</a></sub>
 
