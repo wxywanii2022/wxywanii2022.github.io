@@ -8,15 +8,15 @@ redirect_from:
 
 <p class="welcome-lead">Welcome to my homepage!</p>
 
-I am a **master’s student in computer science** at **Stanford University**. Previously, I earned my **B.S. in Mathematics & Computer Science** with a minor in Statistics from the **University of Illinois Urbana–Champaign (UIUC)**.
+I am an **M.S. student in Computer Science** at **Stanford University**. Previously, I earned my **B.S. in Mathematics & Computer Science** with a minor in Statistics from the **University of Illinois Urbana–Champaign (UIUC)**.
 
 I graduated with [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext) and [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and was named a [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), UIUC’s highest academic honor, awarded to approximately the top 3% of graduating seniors.
 
-My research interests span **foundation models**, with a focus on model architecture, training, reasoning, and perception, as well as **scientific machine learning**. I explore how advances in these areas can help build more capable and reliable AI systems for complex real-world problems.
+My research focuses on **foundation models**, particularly model architecture, training, reasoning, and perception. I have also worked on **AI for science**. Across these areas, I aim to develop more capable and reliable AI systems for solving complex real-world problems.
 
 ## Research Experience
 
-I have been fortunate to work with and learn from researchers across AI and the sciences:
+I have been fortunate to work with and learn from researchers on the following topics:
 
 - **Efficient foundation language models** <small markdown="span"> with [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html) at the [Institute of AI for Industries, Chinese Academy of Sciences](http://iaii.cas.cn/).</small>
 - **Self-evolving agent skills** <small markdown="span"> with [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/) in the [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx) at Nanjing University.</small>
