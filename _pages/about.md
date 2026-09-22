@@ -8,30 +8,25 @@ redirect_from:
 
 <p class="welcome-lead">Welcome to my homepage!</p>
 
-I am an **MSCS student** at **Stanford University**. Prior to Stanford, I earned my **B.S. in Mathematics & Computer Science** with a **minor in Statistics** from the **University of Illinois Urbana–Champaign**. I graduated with multiple honors, including [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext), [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), the highest academic honor awarded to approximately the top 3% of graduating seniors at UIUC.
+I am a **master’s student in computer science** at **Stanford University**. Previously, I earned my **B.S. in Mathematics & Computer Science** with a minor in Statistics from the **University of Illinois Urbana–Champaign (UIUC)**.
 
-I am broadly interested in **foundation models, AI reasoning, multimodal learning, and scientific machine learning**. My research explores how learning, reasoning, and external knowledge can be integrated to build more capable and reliable AI systems for solving complex real-world problems.
+I graduated with [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext) and [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and was named a [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), UIUC’s highest academic honor, awarded to approximately the top 3% of graduating seniors.
 
-## Current Research
+My research interests span **foundation models**, with a focus on model architecture, training, reasoning, and perception, as well as **scientific machine learning**. I explore how advances in these areas can help build more capable and reliable AI systems for complex real-world problems.
 
-* **Foundation Language Models** 
-<sub>with <a href="https://openreview.net/profile?id=~Shaojiang_Wang2">Prof. Shaojiang Wang</a> at the <a href="http://iaii.cas.cn/">Institute of AI for Industries, Chinese Academy of Sciences</a></sub>
+## Research Experience
 
-* **Self-Evolving Agent Skills** 
-<sub>with <a href="http://www.lamda.nju.edu.cn/liyf/">Prof. Yufeng Li</a> at the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, Nanjing University</sub>
+I have been fortunate to work with and learn from researchers across AI and the sciences:
 
-## Previous Research
+- **Building foundation language models from scratch** — with [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html) at the [Institute of AI for Industries, Chinese Academy of Sciences](http://iaii.cas.cn/).
+- **Self-evolving agent skills** — with [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/) in the [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx) at Nanjing University.
+- **Diffusion models for 3D image reconstruction** — with [Prof. Zhipei Liang](https://mri.beckman.illinois.edu/people_faculty.html) at the [Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/), UIUC.
+- **Physics-informed machine learning for complex dynamical systems** — with [Prof. Lei Wang](https://www.leiw.org/) at Purdue University and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) at the University of Chicago, through the [Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF).
+- **Combinatorial algorithms** — with [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh) at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/), UIUC.
+- **Spatiotemporal graph neural networks** — as a research intern at the [Intelligent Transportation Research Center, Jiangsu Communications Holding Co., Ltd.](https://english.jchc.cn/).
 
-* **Physics-Informed Machine Learning for Weather Forecasting** <sub>with <a href="https://www.leiw.org/">Prof. Lei Wang</a> through the <a href="https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF">Undergraduate Research Fellowship</a> at Purdue University</sub>
-
-* **Diffusion Models for 3D MRI Reconstruction** <sub>with <a href="https://mri.beckman.illinois.edu/people_faculty.html">Prof. Zhipei Liang</a> at the <a href="https://beckman.illinois.edu/">Beckman Institute for Advanced Science and Technology</a>, University of Illinois Urbana–Champaign</sub>
-
-* **Combinatorial Algorithms** <sub>with <a href="https://math.illinois.edu/directory/profile/ajh">Prof. A. J. Hildebrand</a> at the <a href="https://iml.math.illinois.edu/">Illinois Mathematics Lab</a>, University of Illinois Urbana–Champaign</sub>
-
-* **Spatiotemporal Graph Neural Networks** <sub>Research Intern at the <a href="https://english.jchc.cn/">Intelligent Transportation Research Center, Jiangsu Communications Holding Co., Ltd.</a></sub>
-
-I am always happy to discuss research ideas, explore collaboration opportunities, or simply connect with fellow researchers. Feel free to reach out if you'd like to chat!
+I’m always happy to exchange research ideas, explore collaborations, or simply connect. Feel free to reach out!
 
 ## Beyond Research
 
-I grew up in **Nanjing, China**, where I graduated from **Nanjing Foreign Language School**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.
+I grew up in **Nanjing, China**, and graduated from **Nanjing Foreign Language School**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.
