@@ -18,7 +18,7 @@ My research focuses on **foundation models**, particularly model architecture, t
 
 I have been fortunate to work with and learn from researchers on the following topics:
 
-- **Efficient foundation language models** <small markdown="span"> with [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html) at the [Institute of AI for Industries, Chinese Academy of Sciences](http://iaii.cas.cn/).</small>
+- **Efficient foundation language models** <small markdown="span"> with [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html) at the [Institute of AI for Industries](http://iaii.cas.cn/), Chinese Academy of Sciences.</small>
 - **Self-evolving agent skills** <small markdown="span"> with [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/) in the [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx) at Nanjing University.</small>
 - **Wavelet-compressed diffusion models** <small markdown="span"> with [Prof. Zhipei Liang](https://mri.beckman.illinois.edu/people_faculty.html) at the [Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/), University of Illinois Urbana–Champaign.</small>
 - **Neural operators and hybrid climate modeling** <small markdown="span"> with [Prof. Lei Wang](https://www.leiw.org/) at Purdue University and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) at the University of Chicago, through the [Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF).</small>
@@ -29,4 +29,4 @@ I’m always happy to exchange research ideas, explore collaborations, or simply
 
 ## Beyond Research
 
-I grew up in **Nanjing, China**, and graduated from **Nanjing Foreign Language School**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.
+I grew up in **Nanjing, China**, and graduated from **[Nanjing Foreign Language School](https://www.nfls.com.cn/iynt/12/11/c541a4625/page.htm)**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.
