@@ -16,16 +16,16 @@ My research focuses on **large-scale language models**, including model architec
 
 I have been fortunate to work in the following research groups and to learn from wonderful mentors:
 
-- **[Institute of AI for Industries](http://iaii.cas.cn/)**, Chinese Academy of Sciences
-  <span class="exp-mentors">With [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html)</span>
-- **[LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx)**, Nanjing University
-  <span class="exp-mentors">With [Shi-Yu Tian](https://www.lamda.nju.edu.cn/tiansy/) and [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/)</span>
-- **[Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/)**, University of Illinois Urbana-Champaign
-  <span class="exp-mentors">With [Dr. Ziwen Ke](https://keziwen.github.io/) and [Prof. Zhi-Pei Liang](https://mri.beckman.illinois.edu/people_faculty.html)</span>
-- **[Weather and Climate Dynamics Laboratory](https://www.leiw.org/)**, Purdue University
-  <span class="exp-mentors">With [Prof. Lei Wang](https://www.leiw.org/) and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) (University of Chicago), through the [Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF)</span>
-- **[Illinois Mathematics Lab](https://iml.math.illinois.edu/)**, University of Illinois Urbana-Champaign
-  <span class="exp-mentors">With [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh)</span>
+- <span class="exp-head">**[Institute of AI for Industries](http://iaii.cas.cn/), Chinese Academy of Sciences**</span>
+  <span class="exp-detail">Advised by [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html)</span>
+- <span class="exp-head">**[LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx), Nanjing University**</span>
+  <span class="exp-detail">Advised by [Shi-Yu Tian](https://www.lamda.nju.edu.cn/tiansy/) and [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/)</span>
+- <span class="exp-head">**[Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/), University of Illinois Urbana-Champaign**</span>
+  <span class="exp-detail">Advised by [Dr. Ziwen Ke](https://keziwen.github.io/) and [Prof. Zhi-Pei Liang](https://mri.beckman.illinois.edu/people_faculty.html)</span>
+- <span class="exp-head">**[Weather and Climate Dynamics Laboratory](https://www.leiw.org/), Purdue University**</span>
+  <span class="exp-detail">[Summer Undergraduate Research Fellow (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF), advised by [Prof. Lei Wang](https://www.leiw.org/) and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) (University of Chicago)</span>
+- <span class="exp-head">**[Illinois Mathematics Lab](https://iml.math.illinois.edu/), University of Illinois Urbana-Champaign**</span>
+  <span class="exp-detail">Advised by [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh)</span>
 {: .research-experience-list }
 
 ## Beyond Research
