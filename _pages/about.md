@@ -28,8 +28,8 @@ I have been fortunate to work in the following research groups and to learn from
   <span class="exp-detail">Advised by [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh)</span>
 {: .research-experience-list }
 
+I'm always happy to exchange research ideas, explore collaborations, or simply connect. Feel free to [email me](mailto:{{ site.author.email }})!
+
 ## Beyond Research
 
 I grew up in Nanjing, China, and graduated from [Nanjing Foreign Language School](https://www.nfls.com.cn/iynt/12/11/c541a4625/page.htm). In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing League of Legends and Call of Duty.
-
-I'm always happy to exchange research ideas, explore collaborations, or simply connect. Feel free to [email me](mailto:{{ site.author.email }})!
