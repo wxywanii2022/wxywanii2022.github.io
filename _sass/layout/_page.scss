@@ -65,6 +65,23 @@
     font-weight: bold;
   }
 
+  .research-experience-list {
+    list-style: none;
+    padding-left: 0;
+
+    > li {
+      margin-bottom: 1.1em;
+      padding-left: 1em;
+      border-left: 2px solid var(--global-border-color);
+    }
+  }
+
+  .home-contact {
+    margin-top: 1.5em;
+    padding-top: 1em;
+    border-top: 1px solid var(--global-border-color);
+  }
+
   .talk-slides {
     display: flex;
     flex-wrap: wrap;

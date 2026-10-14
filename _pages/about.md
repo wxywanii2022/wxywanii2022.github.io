@@ -6,27 +6,39 @@ redirect_from:
   - /about.html
 ---
 
-<p class="welcome-lead">Welcome to my homepage!</p>
+<h1 class="welcome-lead">Welcome to my homepage!</h1>
 
-I am an **M.S. student in Computer Science** at **Stanford University**. Previously, I earned my **B.S. in Mathematics & Computer Science** with a minor in Statistics from the **University of Illinois Urbana–Champaign (UIUC)**.
+I am an **M.S. student in Computer Science at Stanford University**. I earned my B.S. in Mathematics & Computer Science with a minor in Statistics from the University of Illinois Urbana–Champaign (UIUC).
 
-I graduated with [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext) and [Magna Cum Laude](https://las.illinois.edu/academics/distinctions), and was named a [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award), UIUC’s highest academic honor, awarded to approximately the top 3% of graduating seniors.
-
-My research focuses on **foundation models**, particularly model architecture, training, reasoning, and perception. I have also worked on **AI for science**. Across these areas, I aim to develop more capable and reliable AI systems for solving complex real-world problems.
+My research focuses on **large language models (LLMs)**, particularly model architectures, training methods, reasoning, and perception. I have also worked on **AI for science**. My broader goal is to build capable and reliable AI systems for complex real-world problems.
 
 ## Research Experience
 
-I have been fortunate to work with and learn from researchers on the following topics:
+I have been fortunate to work with and learn from the following mentors and research groups:
 
-- **Efficient foundation language models** <small markdown="span"> with [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html) at the [Institute of AI for Industries](http://iaii.cas.cn/), Chinese Academy of Sciences.</small>
-- **Self-evolving agent skills** <small markdown="span"> with [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/) in the [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx) at Nanjing University.</small>
-- **Wavelet-compressed diffusion models** <small markdown="span"> with [Prof. Zhipei Liang](https://mri.beckman.illinois.edu/people_faculty.html) at the [Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/), University of Illinois Urbana–Champaign.</small>
-- **Neural operators and hybrid climate modeling** <small markdown="span"> with [Prof. Lei Wang](https://www.leiw.org/) at Purdue University and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) at the University of Chicago, through the [Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF).</small>
-- **Combinatorial algorithms** <small markdown="span"> with [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh) at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/), University of Illinois Urbana–Champaign.</small>
-- **Spatiotemporal graph convolutional networks** <small markdown="span"> as a research intern at the [Intelligent Transportation Research Center, Jiangsu Communications Holding Co., Ltd.](https://english.jchc.cn/).</small>
+- **[Institute of AI for Industries](http://iaii.cas.cn/), Chinese Academy of Sciences**<br>
+  With [Prof. Shaojiang Wang](https://openreview.net/profile?id=~Shaojiang_Wang2) and [Dr. Bin Wu](https://iaii.cas.cn/jggk/xrld/202504/t20250417_7600420.html).
+- **[LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx), Nanjing University**<br>
+  With [Shi-Yu Tian](https://www.lamda.nju.edu.cn/tiansy/) and [Prof. Yufeng Li](http://www.lamda.nju.edu.cn/liyf/).
+- **[Beckman Institute for Advanced Science and Technology](https://beckman.illinois.edu/), UIUC**<br>
+  With [Dr. Ziwen Ke](https://keziwen.github.io/) and [Prof. Zhi-Pei Liang](https://mri.beckman.illinois.edu/people_faculty.html).
+- **[Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF)**<br>
+  With [Prof. Lei Wang](https://www.leiw.org/) at Purdue University and [Prof. Pedram Hassanzadeh](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) at the University of Chicago.
+- **[Illinois Mathematics Lab](https://iml.math.illinois.edu/), UIUC**<br>
+  With [Prof. A. J. Hildebrand](https://math.illinois.edu/directory/profile/ajh).
+{: .research-experience-list }
 
-I’m always happy to exchange research ideas, explore collaborations, or simply connect. Feel free to reach out!
+## Selected Honors
+
+During my undergraduate studies at UIUC, I received:
+
+- [Bronze Tablet Scholar](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award)
+- [Highest Distinction in Mathematics & Computer Science](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/#degreerequirementstext)
+- [Magna Cum Laude](https://las.illinois.edu/academics/distinctions)
 
 ## Beyond Research
 
-I grew up in **Nanjing, China**, and graduated from **[Nanjing Foreign Language School](https://www.nfls.com.cn/iynt/12/11/c541a4625/page.htm)**. In my free time, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing **League of Legends** and **Call of Duty**.
+I grew up in Nanjing, China, and graduated from [Nanjing Foreign Language School](https://www.nfls.com.cn/iynt/12/11/c541a4625/page.htm). Outside research, I enjoy going to the gym, playing basketball and tennis, listening to music, and playing League of Legends and Call of Duty.
+
+I’m always happy to exchange research ideas, explore collaborations, or simply connect. Feel free to [email me](mailto:{{ site.author.email }})!
+{: .home-contact }
