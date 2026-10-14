@@ -74,6 +74,15 @@
       padding-left: 1em;
       border-left: 2px solid var(--global-border-color);
     }
+
+    /* second line of each entry: smaller and muted so the group name leads;
+       opacity (not a fixed gray) keeps it readable in both light and dark themes */
+    .exp-mentors {
+      display: block;
+      margin-top: 0.15em;
+      font-size: 0.9em;
+      opacity: 0.75;
+    }
   }
 
   .home-contact {
